@@ -1,7 +1,5 @@
 # 구독을 구해줘(GooGoo)
 
-![Uploading 스크린샷 2023-04-11 오후 5.41.48.png…]()
-
 ## 구동방법
 iOS앱이라서 애플 앱스토어를 거치지 않고 설치하려면 과정이 번거롭습니다.
 
@@ -16,3 +14,5 @@ iOS앱이라서 애플 앱스토어를 거치지 않고 설치하려면 과정�
 	2-3. 터미널에서 googoo 폴더로 이동
 	2-4. 터미널에서 cordova emulate --target="{디바이스 이름}" 
 	(cordova run ios --list로 사용 가능한 디바이스 조회 가능)
+	
+<img width="787" alt="스크린샷 2023-04-11 오후 5 41 48" src="https://user-images.githubusercontent.com/54742811/231236310-0dcebb27-c7dc-4b60-b063-34272ee217f9.png">
